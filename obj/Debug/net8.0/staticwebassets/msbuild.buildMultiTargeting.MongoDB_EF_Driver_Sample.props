@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MongoDB_EF_Driver_Sample.props" />
+</Project>
