@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34227.203
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB_EF_Driver_Sample", "MongoDB_EF_Driver_Sample.csproj", "{EAB333EE-4F6A-443F-BE1D-05A2C7AF16B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB333EE-4F6A-443F-BE1D-05A2C7AF16B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB333EE-4F6A-443F-BE1D-05A2C7AF16B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB333EE-4F6A-443F-BE1D-05A2C7AF16B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB333EE-4F6A-443F-BE1D-05A2C7AF16B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975B44C0-CA7E-4F60-9C27-83E0F1ED8E13}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@MongoDB_EF_Driver_Sample_HostAddress = http://localhost:5191
+
+GET {{MongoDB_EF_Driver_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
